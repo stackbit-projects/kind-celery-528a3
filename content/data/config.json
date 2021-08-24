@@ -8,16 +8,7 @@
         "has_social": true,
         "social_links": [],
         "content": "lorem-ipsum",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
+        "links": [],
         "type": "footer"
     }
 }
