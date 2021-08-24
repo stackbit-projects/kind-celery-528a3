@@ -1,5 +1,14 @@
 {
     "title": "1v1.lol unblocked",
     "path_prefix": "/",
-    "domain": "https://1v1.lol"
+    "domain": "https://1v1.lol",
+    "footer": {
+        "has_nav": true,
+        "nav_links": [],
+        "has_social": true,
+        "social_links": [],
+        "content": "lorem-ipsum",
+        "links": [],
+        "type": "footer"
+    }
 }
